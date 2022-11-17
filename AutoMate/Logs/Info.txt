@@ -1,0 +1,9 @@
+Enterning into the DB loop
+Before DB Call
+Before DB Call
+After DB Connection
+
+1 Scenarios ([32m1 passed[0m)
+1 Steps ([32m1 passed[0m)
+0m2.901s
+
